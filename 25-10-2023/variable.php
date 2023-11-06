@@ -1,7 +1,7 @@
 <?php
 $name="hello world";
 $age=13;
-$b=4.0;
+$b=56;
 $type=TRUE;
 echo $name;
 echo "<br>";
